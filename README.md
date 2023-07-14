@@ -1,4 +1,3 @@
-# Lottery-and-Stride-Scheduling
 # Table Of Contents:
    * [Scheduling in Operating System](#Scheduling-in-Operating-Systems)
    * [Scheduling Explained](#Scheduling-Explained)
